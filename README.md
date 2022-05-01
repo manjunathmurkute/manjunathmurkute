@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @manjunathmurkute
+- 👀 I’m interested in learning a new skills.
+- 🌱 I’m currently learning basic programming.
